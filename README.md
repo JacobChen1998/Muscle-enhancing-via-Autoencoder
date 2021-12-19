@@ -11,3 +11,10 @@ This is just a funny project that we want to see AutoEncoder (AE) can actually w
 
 2.Higher resolution
 
+**3.Usage:**
+
+1.Open "Pred.ipynb" .
+
+2.Input the image name you wwant to test.
+
+3.Run the whole code.
