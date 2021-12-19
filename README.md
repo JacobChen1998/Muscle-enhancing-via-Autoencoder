@@ -20,11 +20,11 @@
 
 1. Downloads pre-trained model from [link](https://drive.google.com/drive/folders/1m9JgCDnEbBIN45uC-Q-_R6hQGeRkBSNJ?usp=sharing) and put in the folder.
 
-2.Open "Pred.ipynb" .
+2. Open "Pred.ipynb" .
 
-3.Input the image name you wwant to test.
+3. Input the image name you wwant to test.
 
-4.Run the whole code.
+4. Run the whole code.
 
 **4.Training by yourself**
 
