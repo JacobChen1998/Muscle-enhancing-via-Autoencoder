@@ -7,7 +7,7 @@ This is just a funny project that we want to see AutoEncoder (AE) can actually w
 
 **2.Future work:**
 
-***Add more data to train***
+1.Add more data to train
 
-***Higher resolution***
+2.Higher resolution
 
