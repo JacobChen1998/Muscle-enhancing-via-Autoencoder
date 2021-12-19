@@ -18,7 +18,7 @@
 
 **3.Usage:**
 
-1. Downloads pre-trained model from [link](https://drive.google.com/drive/folders/1m9JgCDnEbBIN45uC-Q-_R6hQGeRkBSNJ?usp=sharing) and put in the folder.
+1. Downloads [pre-trained model](https://drive.google.com/drive/folders/1m9JgCDnEbBIN45uC-Q-_R6hQGeRkBSNJ?usp=sharing) and put in the folder.
 
 2. Open "Pred.ipynb" .
 
