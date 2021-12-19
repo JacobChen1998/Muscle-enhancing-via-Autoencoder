@@ -23,8 +23,10 @@ This is just a funny project that we want to see AutoEncoder (AE) can actually w
 
 **4.Training by yourself**
 
-1.Downloads a lot of muscle image from internet (Since the copy right problem, I cannot share my dataset with you). The images type can be jpg/png/jfif/... . Notice: The more visible the muscle lines are in the images, the better. In our case, we have 204 images now.
+1. Downloads a lot of muscle image from internet (Since the copy right problem, I cannot share my dataset with you). The images type can be jpg/png/jfif/... . Notice: The more visible the muscle lines are in the images, the better. In our case, we have 204 images now.
 
-2.Create 2 folders: before_filtering/after_filtering. Put the downloaded images in to "after_filtering" folder.
+2. Create 2 folders: before_filtering/after_filtering. Put the downloaded images in to "after_filtering" folder.
 
-3.Open training.ipynb and run the code with suitable epochs. In our case, we trained with 175 epochs.
+3. Run Inverse_Muscle_filter.ipynb.
+
+4. Open training.ipynb and run the code with suitable epochs. In our case, we trained with 175 epochs.
