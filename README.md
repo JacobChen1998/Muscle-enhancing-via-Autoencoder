@@ -16,6 +16,8 @@
 
 2. Higher resolution
 
+3. Imporve preprocess (Inverse_Muscle_filter.ipynb): maybe a  de-noise process
+
 **3.Usage:**
 
 1. Downloads [pre-trained model](https://drive.google.com/drive/folders/1m9JgCDnEbBIN45uC-Q-_R6hQGeRkBSNJ?usp=sharing) and put in the folder.
