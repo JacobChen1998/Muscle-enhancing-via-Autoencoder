@@ -22,20 +22,21 @@
 
 1. Downloads [pre-trained model](https://drive.google.com/drive/folders/1m9JgCDnEbBIN45uC-Q-_R6hQGeRkBSNJ?usp=sharing) and put in the folder.
 
-2. Download repository-[skin detector](github.com/CHEREF-Mehdi/SkinDetection)
+2. Open "Pred.ipynb" .
 
-3. Open "Pred.ipynb" .
+3. Input the image name you wwant to test.
 
-4. Input the image name you wwant to test.
-
-5. Run the whole code.
+4. Run the whole code.
 
 **4.Training by yourself**
 
 1. Downloads a lot of muscle image from internet (Since the copy right problem, I cannot share my dataset with you). The images type can be jpg/png/jfif/... . Notice: The more visible the muscle lines are in the images, the better. In our case, we have 204 images now.
 
-2. Create 2 folders: before_filtering/after_filtering. Put the downloaded images in to "after_filtering" folder.
+2. Download repository-[skin detector-1](github.com/CHEREF-Mehdi/SkinDetection) and [skin detector-2](https://github.com/WillBrennan/SkinDetector)
 
-3. Run Inverse_Muscle_filter.ipynb.
 
-4. Open training.ipynb and run the code with suitable epochs. In our case, we trained with 175 epochs.
+3. Create 2 folders: before_filtering/after_filtering. Put the downloaded images in to "after_filtering" folder.
+
+4. Run Inverse_Muscle_filter.ipynb.
+
+5. Open training.ipynb and run the code with suitable epochs. In our case, we trained with 175 epochs.
