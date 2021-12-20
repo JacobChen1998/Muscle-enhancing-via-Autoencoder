@@ -32,7 +32,7 @@
 
 1. Downloads a lot of muscle image from internet (Since the copy right problem, I cannot share my dataset with you). The images type can be jpg/png/jfif/... . Notice: The more visible the muscle lines are in the images, the better. In our case, we have 204 images now.
 
-2. Download repository-[skin detector-1](github.com/CHEREF-Mehdi/SkinDetection) and [skin detector-2](https://github.com/WillBrennan/SkinDetector)
+2. Download repository-[skin detector-1](github.com/CHEREF-Mehdi/SkinDetection) and [skin detector-2](https://github.com/WillBrennan/SkinDetector). Then, put their with code.
 
 
 3. Create 2 folders: before_filtering/after_filtering. Put the downloaded images in to "after_filtering" folder.
