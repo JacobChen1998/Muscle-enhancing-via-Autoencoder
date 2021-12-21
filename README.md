@@ -43,7 +43,7 @@
 
 5. Open training.ipynb and run the code with suitable epochs. 
 
-**Update History:**
+**5. Update History:**
 
 1. [2021/12/21] 
   1. Add 100+ image into dataset and remove gray style image (skin detector will not work).
