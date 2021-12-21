@@ -6,8 +6,8 @@
 
 2. Results of 1~5-times iterating  
 
-![image](https://github.com/JacobChen1998/Funny_muscle_enhancer/blob/main/Figure/compare.png)
-
+<!-- ![image](https://github.com/JacobChen1998/Funny_muscle_enhancer/blob/main/Figure/compare.png) -->
+![image](https://github.com/JacobChen1998/Funny_muscle_enhancer/blob/main/Figure/compare_version2.png)
 
 
 **2.Future work:**
