@@ -50,4 +50,6 @@
   2. Modify preprocess to can output double images (weakening/original version with/without background). Original code just can output weakening/original version with background.
   3. Change training/prediction shape from (224,224,3) to (448,448,3).
   4. Training a model with size:(448,448,3) and put the new model in [pre-trained model](https://drive.google.com/drive/folders/1m9JgCDnEbBIN45uC-Q-_R6hQGeRkBSNJ?usp=sharing)
-  5. Training condition as shown as following: ![image](https://github.com/JacobChen1998/Funny_muscle_enhancer/blob/main/Figure/loss.png)
+  5. Training condition as shown as following: 
+  
+  ![image](https://github.com/JacobChen1998/Funny_muscle_enhancer/blob/main/Figure/loss.png)
