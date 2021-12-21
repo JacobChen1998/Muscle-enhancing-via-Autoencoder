@@ -3,7 +3,7 @@
 **1.Discription:**
 
 1. This is just a funny project that we want to see AutoEncoder (AE) can actually work on the some features. We will start to improve...
-2. Results of 1~5-times iterating  
+2. Origial image and results for iterating 1~5-times.
 
 <!-- ![image](https://github.com/JacobChen1998/Funny_muscle_enhancer/blob/main/Figure/compare.png) -->
 ![image](https://github.com/JacobChen1998/Funny_muscle_enhancer/blob/main/Figure/compare_version2.png)
