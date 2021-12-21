@@ -37,8 +37,17 @@
 2. Download repository-[skin detector-1](github.com/CHEREF-Mehdi/SkinDetection) and [skin detector-2](https://github.com/WillBrennan/SkinDetector). Then, put their with code.
 
 
-3. Create 2 folders: before_filtering/after_filtering. Put the downloaded images in to "after_filtering" folder.
+3. Create 2 folders: before_filtering/after_filtering. Put the downloaded images in to "after_filtering" folder. Also create 2 empty folders: before_filtering_rm_bg/after_filtering_rm_bg which will load images from Inverse_Muscle_filter.ipynb
 
 4. Run Inverse_Muscle_filter.ipynb.
 
-5. Open training.ipynb and run the code with suitable epochs. In our case, we trained with 175 epochs.
+5. Open training.ipynb and run the code with suitable epochs. 
+
+**Update History:**
+
+1. [2021/12/21] 
+  1. Add 100+ image into dataset and remove gray style image (skin detector will not work).
+  2. Modify preprocess to can output double images (weakening/original version with/without background). Original code just can output weakening/original version with background.
+  3. Change training/prediction shape from (224,224,3) to (448,448,3).
+  4. Training a model with size:(448,448,3) and put the new model in [pre-trained model](https://drive.google.com/drive/folders/1m9JgCDnEbBIN45uC-Q-_R6hQGeRkBSNJ?usp=sharing)
+  5. Training condition as shown as following: ![image](https://github.com/JacobChen1998/Funny_muscle_enhancer/blob/main/Figure/loss.png)
