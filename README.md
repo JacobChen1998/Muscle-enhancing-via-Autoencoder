@@ -16,7 +16,9 @@
 
 2. Higher resolution
 
-3. Imporve preprocess (Inverse_Muscle_filter.ipynb): denoise process/brightness fixed/enhance not incude face
+3. Imporve preprocess (Inverse_Muscle_filter.ipynb): denoise process/enhance not incude face
+
+4. postprocess: brightness fixed/denoise process.
 
 **3.Usage:**
 
