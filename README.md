@@ -1,4 +1,4 @@
-# Muscle-enhancing-based_on-Autoencoder :)
+# Muscle-enhancing-based_on-Autoencoder 
 
 **1.Discription:**
 
